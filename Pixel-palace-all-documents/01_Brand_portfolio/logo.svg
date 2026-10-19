@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 72" shape-rendering="crispEdges" role="img" aria-label="Pixel Palace logo: a pixel-art castle">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#6d28d9"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#g)">
+    <rect x="0" y="16" width="8" height="8"/>
+    <rect x="16" y="16" width="8" height="8"/>
+    <rect x="40" y="8" width="8" height="16"/>
+    <rect x="64" y="16" width="8" height="8"/>
+    <rect x="80" y="16" width="8" height="8"/>
+    <rect x="0" y="24" width="24" height="16"/>
+    <rect x="32" y="24" width="24" height="16"/>
+    <rect x="64" y="24" width="24" height="16"/>
+    <rect x="0" y="40" width="88" height="16"/>
+    <rect x="0" y="56" width="32" height="16"/>
+    <rect x="56" y="56" width="32" height="16"/>
+  </g>
+  <rect x="40" y="0" width="16" height="8" fill="#ff4fa3"/>
+  <rect x="8" y="24" width="8" height="8" fill="#22e4ff"/>
+  <rect x="72" y="24" width="8" height="8" fill="#22e4ff"/>
+  <rect x="40" y="24" width="8" height="8" fill="#ffc83d"/>
+</svg>
